@@ -628,6 +628,8 @@ nnoremap <C-c> "+y
 " Plug 'haya14busa/vim-poweryank'
 " map <C-c> <Plug>(operator-poweryank-osc52)
 
+source /Users/jeffwu/openai/vimgen/vimgen.vim
+
 call plug#end()
 " automatically calls:
 " - filetype plugin indent on
